@@ -9,7 +9,7 @@ namespace a3_Side_croller_Game
 {
     class Hole
     {
-        Random rnd = new Random();
+        Random rnd = new Random();//Randm for sizing
         public int distance;
         private readonly int holeHeight = 100;
         public Rectangle holeDisplayArea;
@@ -19,7 +19,7 @@ namespace a3_Side_croller_Game
         {
             return holeDisplayArea.X;
         }
-
+        //Create a new hole with a random width
         public Hole(Rectangle gameplayArea)
         {
             distance = rnd.Next(100, 250);
@@ -31,7 +31,7 @@ namespace a3_Side_croller_Game
             holeDisplayArea.X = gameplayArea.Right;
 
         }
-
+        //Draw hole with colour
         internal void Draw(Graphics graphics)
         {
             SolidBrush brush = new SolidBrush(Color.SaddleBrown);

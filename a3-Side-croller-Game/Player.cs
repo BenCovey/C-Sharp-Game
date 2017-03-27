@@ -16,7 +16,6 @@ namespace a3_Side_croller_Game
         public Rectangle gameplayArea;
 
 
-
         public Player(Rectangle gameplayArea)
         {
             playerDisplayArea.Height = playerHeight;

@@ -19,8 +19,7 @@ namespace a3_Side_croller_Game
         {
             return treeDisplayArea.X;
         }
-
-
+        
         public Trees(Rectangle gameplayArea)
         {
             treeDisplayArea.Height = treeHeight;
