@@ -1,0 +1,9 @@
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\A3-Scroller-Game\a3-Side-croller-Game\a3-Side-croller-Game\bin\Debug\a3-Side-croller-Game.exe.config
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\A3-Scroller-Game\a3-Side-croller-Game\a3-Side-croller-Game\bin\Debug\a3-Side-croller-Game.exe
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\A3-Scroller-Game\a3-Side-croller-Game\a3-Side-croller-Game\bin\Debug\a3-Side-croller-Game.pdb
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\A3-Scroller-Game\a3-Side-croller-Game\a3-Side-croller-Game\obj\Debug\a3_Side_croller_Game.Form1.resources
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\A3-Scroller-Game\a3-Side-croller-Game\a3-Side-croller-Game\obj\Debug\a3_Side_croller_Game.Properties.Resources.resources
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\A3-Scroller-Game\a3-Side-croller-Game\a3-Side-croller-Game\obj\Debug\a3-Side-croller-Game.csproj.GenerateResource.Cache
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\A3-Scroller-Game\a3-Side-croller-Game\a3-Side-croller-Game\obj\Debug\a3-Side-croller-Game.exe
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\A3-Scroller-Game\a3-Side-croller-Game\a3-Side-croller-Game\obj\Debug\a3-Side-croller-Game.pdb
+C:\Users\benvc\Source\Repos\Covey-Ben-w0285690\A3-Scroller-Game\a3-Side-croller-Game\a3-Side-croller-Game\obj\Debug\a3-Side-croller-Game.csprojResolveAssemblyReference.cache
